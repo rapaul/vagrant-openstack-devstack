@@ -3,7 +3,13 @@ vagrant-openstack-devstack
 
 A Vagrant config for booting up a test OpenStack server using VirtualBox
 
-$ vagrant up
+Prerequisites:
+* VirtualBox
+* Vagrant - http://www.vagrantup.com/
+
+Run
+
+    $ vagrant up
 
 \# Make yourself a cup of tea
 
