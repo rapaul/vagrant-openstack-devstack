@@ -10,5 +10,5 @@ Vagrant.configure("2") do |config|
     vb.customize ["modifyvm", :id, "--memory", "3072"]
   end
 
-  config.vm.provision :shell, :path => 'stack.sh'
+  config.vm.provision :shell, :path => 'stack.sh', :privileged => false
 end
