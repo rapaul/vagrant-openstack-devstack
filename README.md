@@ -13,4 +13,7 @@ Run
 
 \# Make yourself a cup of tea
 
-You can then hit the bridged IP address in your browser to log into OpenStack
+You can then hit the bridged IP address in your browser to log into OpenStack.
+
+Username: admin
+Password: password
