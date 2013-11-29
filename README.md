@@ -15,5 +15,4 @@ Run
 
 You can then hit the bridged IP address in your browser to log into OpenStack.
 
-Username: admin
-Password: password
+Username: `admin`, Password: `password`
